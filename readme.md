@@ -6,7 +6,7 @@
 print("Hello World")
 
 #About Me
-name= "Caitlin Venter"
+name= "Caitlin"
 experience_level= "beginner"
 learning_languages= ["python(obviously)","java","c++", "html", "css"]
 
